@@ -1,6 +1,6 @@
 # lab-pbp-flutter
-Nama : Andi Ayuna Rymang
-NPM : 2106637265
-Kelas PBP A
+Nama : Andi Ayuna Rymang < /br>
+NPM : 2106637265 < /br>
+Kelas PBP A < /br>
 
-Masih loading instalasi
+## Lab-nya ada di branch master
